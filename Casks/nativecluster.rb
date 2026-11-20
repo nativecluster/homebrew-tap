@@ -5,8 +5,8 @@
 #
 #   brew install --cask nativecluster/tap/nativecluster
 cask "nativecluster" do
-  version "0.4.21"
-  sha256 "4a4f9f6861ceb5b6c6ac423d0db8abf8299f73c959f62ed2ad16e17f15f89a39"
+  version "0.4.22"
+  sha256 "343ed11d9d695a3e8265e4b71a92a5179b4c9af44f0ce7a4919561bc3a965a79"
 
   url "https://updates.nativecluster.com/#{version}/NativeCluster-#{version}.dmg"
   name "NativeCluster"
